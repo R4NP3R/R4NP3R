@@ -27,7 +27,7 @@ Estudande de Programação FullStack
 
 ## Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=efood&bg_color=000&border_color=48C83A&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/efood)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=efood&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/efood)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=clone_disneyplus&bg_color=000&border_color=48C83A&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/clone_disneyplus)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=R4NP3R&repo=clone_disneyplus&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=48C83A&text_color=FFF)](https://github.com/R4NP3R/clone_disneyplus)
 
