@@ -1,7 +1,7 @@
 
 # 💻 R4NP3R
 
-Estudande de Programação FullStack 
+Desenvolvedor FullStack 
 
 ### Conecte-se comigo
 
